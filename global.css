@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+div {
+    text-align: center;
+    width: 200;
+    height: 200;
+}
+
+p{
+    color: red;
+}
