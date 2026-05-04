@@ -24,4 +24,5 @@ btn.addEventListener("click", (e) => {
 
     createUser(usernameValue, passValue);
     alert("Usuário criado com sucesso!");
+    window.location.href = "index.html"
 });
